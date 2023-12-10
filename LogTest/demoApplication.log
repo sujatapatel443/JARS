@@ -1,0 +1,9 @@
+[main] DEBUG com.log.Example  - Hello this is a debug message
+  [main] INFO  com.log.Example  - Hello this is an info message
+  [main] DEBUG com.log.Example  - Hello this is a debug message
+  [main] INFO  com.log.Example  - Hello this is an info message
+  [main] DEBUG com.log.Example  - Hello this is a debug message
+  [main] INFO  com.log.Example  - Hello this is an info message
+  [main] DEBUG com.log.Example  - Hello this is a debug message
+  [main] INFO  com.log.Example  - Hello this is an info message
+  
